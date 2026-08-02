@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AudioSubs — Política de Privacidad</title>
+  <meta name="description" content="Política de privacidad de AudioSubs: cómo se manejan tus datos. 100% local.">
+  <link rel="stylesheet" href="../assets/css/styles.css">
+  <link rel="icon" href="../assets/img/icon.ico">
+</head>
+<body>
+  <div class="container">
+    <nav class="topbar">
+      <div class="brand">Audio<span>Subs</span></div>
+      <div class="lang">
+        <a href="../privacy.html">PT</a>
+        <a href="../en/privacy.html">EN</a>
+        <a href="privacy.html" class="active">ES</a>
+      </div>
+    </nav>
+
+    <h1>Política de Privacidad</h1>
+    <p class="warn">Última actualización: 02/08/2026</p>
+
+    <div class="card">
+      <h3>1. El procesamiento es local</h3>
+      <p>AudioSubs procesa audio, transcripción y traducción <strong>enteramente en tu computadora</strong>. Ningún video, audio o texto transcrito se envía a nuestros servidores.</p>
+    </div>
+
+    <div class="card">
+      <h3>2. Qué se almacena en tu PC</h3>
+      <p>La app solo guarda configuraciones locales: preferencias de idioma, tu estado de licencia (gratis/prueba/PRO) y contadores de uso diario. Estos datos viven en tu disco, en <code>%APPDATA%\audiosubs\config.json</code> y en el Registro de Windows.</p>
+    </div>
+
+    <div class="card">
+      <h3>3. Qué se envía a internet</h3>
+      <ul>
+        <li><strong>Cuando usas una URL:</strong> la app descarga el video/audio público de esa URL (lo mismo que abrir el enlace en un navegador).</li>
+        <li><strong>Modelo de IA:</strong> en la primera transcripción la app descarga el modelo Whisper (~220 MB) de un servidor de modelos (Hugging Face).</li>
+        <li><strong>Traducción:</strong> la traducción usa un endpoint público de traducción. Para 100% sin conexión, conserva el idioma "original".</li>
+        <li><strong>Activación de licencia:</strong> la clave PRO se valida localmente; no se envía información personal para activar.</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h3>4. Datos de compra</h3>
+      <p>Las compras las procesan plataformas de terceros (<strong>Gumroad</strong> para pagos internacionales y <strong>Hotmart</strong> para Brasil). AudioSubs solo recibe el correo del comprador para emitir la clave de licencia. Nunca tenemos acceso a datos de tarjeta.</p>
+    </div>
+
+    <div class="card">
+      <h3>5. Datos no recopilados</h3>
+      <p>No recopilamos telemetría, uso anónimo, historial de URLs, contenido transcrito ni datos biométricos. Sin cuentas, sin registro para usar la app.</p>
+    </div>
+
+    <div class="card">
+      <h3>6. Derechos y contacto</h3>
+      <p>Para cualquier duda sobre privacidad o para solicitar la eliminación de datos de compra, escribe a <a href="mailto:SEU_EMAIL@exemplo.com">SEU_EMAIL@exemplo.com</a>.</p>
+    </div>
+
+    <footer>
+      <div class="container">
+        <div>© 2026 AudioSubs</div>
+        <div><a href="index.html">← Volver</a></div>
+      </div>
+    </footer>
+  </div>
+</body>
+</html>
