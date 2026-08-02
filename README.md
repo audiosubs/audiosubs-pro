@@ -17,18 +17,24 @@ Este repositório serve a página de vendas (PT/EN/ES) + política de privacidad
 
 Para atualizar o site: edite os arquivos, `git add -A && git commit && git push` — o Pages republica sozinho em ~1 min.
 
+O botão "Comprar PRO" já aponta para o produto real do Gumroad:
+`https://audiosubspro.gumroad.com/l/kxeodt`.
+
 ## Download
 
 Baixe a última versão na seção [Releases](https://github.com/audiosubs/audiosubs/releases) (release **v1.1.0** com `AudioSubs Setup 1.1.0.exe`).
 
-## Placeholders pendentes (dependem das contas de venda)
+## Placeholder pendente
 
 | Placeholder | Onde | Trocar por |
 |---|---|---|
-| `SEU_LINK_GUMROAD` | botão "Comprar PRO" nos 3 `index.html` | o link do produto criado no Gumroad |
 | `SEU_EMAIL@exemplo.com` | rodapé/privacidade/suporte | seu e-mail de contato/suporte |
 
 ## Preços atuais no site
 
 - **Brasil (R$):** PRO R$ 119 vitalício (faixa sugerida R$ 99–149)
 - **Global (US$):** PRO $39 vitalício (faixa sugerida US$ 29–49)
+
+Ajuste os valores no `<div class="price">` se quiser outro ponto da faixa.
+
+Estrutura: `/` = PT (público principal), `/en/` e `/es/` = inglês e espanhol.
