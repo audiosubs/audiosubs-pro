@@ -12,14 +12,14 @@ Extrator de áudio e legendas de vídeos para Windows.
 
 Este repositório serve a página de vendas (PT/EN/ES) + política de privacidade via **GitHub Pages**:
 
-- **Site:** https://roby87gyn.github.io/audiosubs/
+- **Site:** https://audiosubs.github.io/audiosubs-pro/
 - **PT (raiz):** `/` · **EN:** `/en/` · **ES:** `/es/`
 
 Para atualizar o site: edite os arquivos, `git add -A && git commit && git push` — o Pages republica sozinho em ~1 min.
 
 ## Download
 
-Baixe a última versão na seção [Releases](https://github.com/Roby87gyn/audiosubs/releases) (release **v1.1.0** com `AudioSubs Setup 1.1.0.exe`).
+Baixe a última versão na seção [Releases](https://github.com/audiosubs/audiosubs/releases) (release **v1.1.0** com `AudioSubs Setup 1.1.0.exe`).
 
 ## Placeholders pendentes (dependem das contas de venda)
 
