@@ -33,7 +33,7 @@ Baixe a última versão na seção [Releases](https://github.com/audiosubs/audio
 
 ## Preços atuais no site
 
-- **Brasil (R$):** PRO R$ 119 vitalício (faixa sugerida R$ 99–149)
+- **Brasil (R$):** PRO R$ 114,90 vitalício (faixa sugerida R$ 99–149)
 - **Global (US$):** PRO $39 vitalício (faixa sugerida US$ 29–49)
 
 Ajuste os valores no `<div class="price">` se quiser outro ponto da faixa.
