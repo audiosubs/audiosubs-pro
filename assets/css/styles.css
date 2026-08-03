@@ -31,7 +31,8 @@ a:hover { text-decoration: underline; }
   padding: 14px 0; border-bottom: 1px solid var(--border);
   margin-bottom: 40px;
 }
-.brand { font-weight: 700; font-size: 18px; letter-spacing: 0.5px; }
+.brand { font-weight: 700; font-size: 18px; letter-spacing: 0.5px; text-decoration: none; color: inherit; }
+.brand div { display: inline; }
 .brand span { color: var(--accent); }
 .lang a { margin-left: 12px; color: var(--muted); font-size: 14px; }
 .lang a.active { color: var(--accent); font-weight: 700; }
