@@ -17,8 +17,9 @@ Este repositório serve a página de vendas (PT/EN/ES) + política de privacidad
 
 Para atualizar o site: edite os arquivos, `git add -A && git commit && git push` — o Pages republica sozinho em ~1 min.
 
-O botão "Comprar PRO" já aponta para o produto real do Gumroad:
-`https://audiosubspro.gumroad.com/l/kxeodt`.
+O botão "Comprar PRO" aponta para as plataformas de venda:
+- **PT (raiz):** Hotmart — `https://go.hotmart.com/E106994843U` (PIX/cartão Brasil)
+- **EN / ES:** Gumroad — `https://audiosubspro.gumroad.com/l/kxeodt` (cartão global)
 
 ## Download
 
