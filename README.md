@@ -25,11 +25,9 @@ O botão "Comprar PRO" aponta para as plataformas de venda:
 
 Baixe a última versão na seção [Releases](https://github.com/audiosubs/audiosubs/releases) (release **v1.1.0** com `AudioSubs Setup 1.1.0.exe`).
 
-## Placeholder pendente
+## Contato
 
-| Placeholder | Onde | Trocar por |
-|---|---|---|
-| `SEU_EMAIL@exemplo.com` | rodapé/privacidade/suporte | seu e-mail de contato/suporte |
+E-mail de suporte: `audiosubspro@gmail.com` (rodapé, privacidade e suporte dos 3 idiomas já preenchidos).
 
 ## Preços atuais no site
 
